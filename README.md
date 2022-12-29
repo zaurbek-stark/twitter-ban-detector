@@ -21,5 +21,3 @@ You can now start this project by running the following command from the root fo
 
 This runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-You will need to setup a `.env` 
