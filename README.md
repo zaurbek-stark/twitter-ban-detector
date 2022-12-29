@@ -1,6 +1,6 @@
 # Twitter Ban Detector
 
-This is the codebase for the Twitter Ban Detector that I developed in this video:
+This is the codebase for the Twitter Ban Detector that I developed in this video. This app lets you know if your tweet is likely to get you cancelled or not.
 <div>
 <a href="https://youtu.be/AfoxZEGv7UY" target="_blank">
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/121587026/210020435-5831d71b-663e-4a95-a44d-6ff18395b396.png">
